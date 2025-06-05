@@ -15,7 +15,7 @@ This repository currently contains implementations of fundamental data structure
 
 📱 Connect with Me
 
-LinkedIn: https://leetcode.com/u/RiOxFranky/
+LinkedIn: www.linkedin.com/in/abhirup-sarkar-778a60317
 
 LeetCode: https://leetcode.com/u/RiOxFranky/
 
